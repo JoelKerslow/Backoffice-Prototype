@@ -1,0 +1,6 @@
+@Sunbeam_Backoffice.Prototype_HostAddress = http://localhost:5062
+
+GET {{Sunbeam_Backoffice.Prototype_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
